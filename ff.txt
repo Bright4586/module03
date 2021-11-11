@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>JavaJam Coffee Joint</title>
+</head>
+<body>
+ <nav> id="navbar">
+<div id="logo">
+<img src="logo.pnghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcEotxfL76oM_mZ_SabXw_BPsYz2eo-pY0Dg&usqp=CAU" alt="">
+</div>
+<ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#"About Us</a></li>
+            <li><a href="#"About Us</a></li>
+            <li><a href="#"Contact Us</a></li>
+        </ul>
+ </nav>
+<section id="home"> 
+<h1 class="h-primary center">Welcome To JavaJam Coffee Joint</h1>
+<p class="center">If you're shopping for the best deals come to  JavaJam Coffee Joint, Try our 4-berry sundaes with raspberry, strawberry, blueberry, or blackberry with vanilla or chocolate, or a brownie sundae with caramel sauce drizzled over vanilla frozen yogurt and topped with chunks of chocolate brownie from our bakery.</p> We’ve also got Grab N’ Go Caesar salads and fruit.
+            
+   
+<button class="btn">Order Now</button>
+</section>
+</body>
+    
+<header>
+
+</html>
